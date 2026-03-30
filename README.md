@@ -1,6 +1,6 @@
 # Building a Simple Research Agent with Auwgent and Python
 
-![Cover: Auwgent research agent](https://blog-images-cdn.henryantwi.me/auwgent-blog-images/screenshots/auwgent-thumbnail1.webp)
+![Cover: Auwgent research agent](https://blog-images-cdn.henryantwi.me/auwgent-blog-images/screenshots/auwgent-thumbnail2.webp)
 
 ## What is Auwgent?
 
