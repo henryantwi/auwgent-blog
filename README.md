@@ -65,8 +65,6 @@ a-simple-research-agent/
 └── tools.py
 ```
 
-![Project layout in the editor](https://blog-images-cdn.henryantwi.me/auwgent-blog-images/screenshots/01-project-layout.png)
-
 ---
 
 ## Step 1 — Clone the repository
